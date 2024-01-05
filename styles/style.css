@@ -2,11 +2,17 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+ul {
+    text-align: center;
+}
+
 ul li {
     background-color: rgb(158, 240, 158);
+    margin: 8px;
+    display: inline-block;
+    padding: 8px;
 }
 
 #mainHeading {
-    font-weight: 100;
     text-align: center;
 }
